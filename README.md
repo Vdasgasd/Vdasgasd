@@ -9,5 +9,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vdasgasd&show_icons=true&locale=en&layout=compact" alt="vdasgasd" /></p>
-
+<p align="left">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdasgasd&color=blueviolet" alt="vdasgasd"/> </p>
