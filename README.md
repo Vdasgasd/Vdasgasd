@@ -5,7 +5,7 @@
 <h3 align="left">Habit:</h3>
 <br>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vdasgasd&show_icons=true&locale=en&layout=compact"
     alt="Top Languages"
@@ -14,7 +14,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=vdasgasd&color=blueviolet"
     alt="Profile Views"
